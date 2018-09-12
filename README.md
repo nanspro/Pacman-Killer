@@ -1,6 +1,5 @@
 Graphics Assignment
 =========================
-->20161101 Rahul Bishnoi
 
 Use 'A' to go left and 'D' to go right and 'SPACE' to jump 
 TO exit the game press 'Esc' or close the window
